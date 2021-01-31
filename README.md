@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Skills
+  => CSS3
+  => CSS Flexbox
+  => CSS Grid
+  => Bootstrap 5
+  => JavaScript
+  => React
+  => PHP
+  => Laravel
+  => MySQL
+  
