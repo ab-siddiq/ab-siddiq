@@ -1,19 +1,19 @@
 ### Hi there 👋
 #My Skills
   <ul>
-  <li>a</li>
+    <li>CSS3</li>
+    <li>CSS Flexbox</li>
+    <li>CSS Grid</li>
+    <li>Bootstrap 5</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>React.js</li>
+    <li>PHP</li>
+    <li>Laravel</li>
+    <li>MySQL</li>
   </ul>
    
-# CSS3
-# CSS Flexbox
-# CSS Grid
-# Bootstrap 5
-# JavaScript
-# TypeScript
-# React.js
-# PHP
-# Laravel
-# MySQL
+
 <!--
 **ab-siddiq/ab-siddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,14 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Skills
-  
-  
- 
-  
-  
-  
-  
-  
-  
-  
