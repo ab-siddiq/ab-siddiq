@@ -1,4 +1,5 @@
-### Hi there 👋
+# About Me
+  I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I am a professional Frontend React developer.
 # My Skills
   <ul>
     <li style="background-color:red">CSS3</li>
