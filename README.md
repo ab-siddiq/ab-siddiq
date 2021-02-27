@@ -1,7 +1,7 @@
 ### Hi there 👋
 #My Skills
   <ul>
-    <li>CSS3</li>
+    <li style="color:red">CSS3</li>
     <li>CSS Flexbox</li>
     <li>CSS Grid</li>
     <li>Bootstrap 5</li>
