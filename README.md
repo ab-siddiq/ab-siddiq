@@ -1,13 +1,14 @@
 ### Hi there 👋
-=> CSS3
-=> CSS Flexbox
-=> CSS Grid
-=> Bootstrap 5
-=> JavaScript
-=> React
-=> PHP
-=> Laravel
-=> MySQL
+# CSS3
+# CSS Flexbox
+# CSS Grid
+# Bootstrap 5
+# JavaScript
+# TypeScript
+# React.js
+# PHP
+# Laravel
+# MySQL
 <!--
 **ab-siddiq/ab-siddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
