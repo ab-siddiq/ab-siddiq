@@ -1,5 +1,5 @@
 # About Me
-  I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I am a professional Frontend React developer. Currently, i am working as a Creative Developer at <a href="https://sebpo.com/" target="_blank">ServicEngineBPO</a>
+  I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I am a professional Frontend React developer. Currently, i am working as a Creative Developer at [ServicEngineBPO]("https://sebpo.com/") 
 # My Skills
 `CSS Flexbox` `CSS Grid` `Bootstrap 5` `JavaScript` `TypeScript` `React.js` `PHP` `Laravel` `MySQL`
   
