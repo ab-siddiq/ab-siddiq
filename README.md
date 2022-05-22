@@ -1,6 +1,6 @@
 ## About Me  
 
-I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I am a frontend web developer, and working as a fronted developer for 2 years. Currently, I am working as a Creative Developer at [ServicEngineBPO](https://sebpo.com/). My skill includes computer programming, web design and development. Currently, I am learning React.js. I wanted to become a full-stack web application (React.js, Angular.js, Node.js, MongoDB) & cross platform mobile application (React Native, Flutter) developer. I am a dedicated, cooperative, self-assured and articulate professional.
+I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I am a frontend web developer, and working as a fronted developer for 2 years. Currently, I am working as a Creative Developer at [ServicEngineBPO](https://sebpo.com/). My skill includes computer programming, web design and development. Currently, I am learning React.js. I wanted to become a full-stack web application (React.js, Node.js, MongoDB) & cross platform mobile application (React Native, Flutter) developer. I am a dedicated, cooperative, self-assured and articulate professional.
 
 ## My Skills
 - Frontend
