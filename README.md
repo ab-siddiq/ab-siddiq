@@ -15,8 +15,56 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - `Firebase` `React Firebase Hooks`
 
 ## Project Links
-
-
+- [API Project](https://react-router-with-tailwind.netlify.app/)
+  - Rest coutries
+  - Jsonplaceholder
+  - React
+  - React router
+  - Tailwind css
+ - [Product data analysis](https://product-data-analysis.netlify.app/)
+  -React
+  - React router
+  - Tailwind css
+  - React chart
+ -[Tisma Commerce](https://tisma-commerece.netlify.app/)
+  - React
+  - React hook
+ - [Phone Hunter](https://phone-hunter.netlify.app/)
+  - Api
+  - React
+ - (Lawyer Profile)[https://react-lawyer-2919b.web.app/]
+  - React
+  - React bootstrap
+  - Custom api
+  - Firebase authentication
+ - (Diagnosti Equipment)[https://react-mongodb-diagnostic-equip.web.app/]
+  - React
+  - React router
+  - Api
+  - Firebase authentication
+  - Express
+  - Node
+  - MongoDB
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
+ - ()[]
+  - 
 <!--
 **ab-siddiq/ab-siddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
