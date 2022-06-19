@@ -21,31 +21,35 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - React
   - React router
   - Tailwind css
- - [Product data analysis](https://product-data-analysis.netlify.app/)
+- [Product data analysis](https://product-data-analysis.netlify.app/)
   -React
   - React router
   - Tailwind css
   - React chart
- -[Tisma Commerce](https://tisma-commerece.netlify.app/)
+ 
+-[Tisma Commerce](https://tisma-commerece.netlify.app/)
   - React
   - React hook
- - [Phone Hunter](https://phone-hunter.netlify.app/)
+ 
+- [Phone Hunter](https://phone-hunter.netlify.app/)
   - Api
   - React
- - (Lawyer Profile)[https://react-lawyer-2919b.web.app/]
+ 
+- (Lawyer Profile)[https://react-lawyer-2919b.web.app/]
   - React
   - React bootstrap
   - Custom api
   - Firebase authentication
- - (Diagnosti Equipment)[https://react-mongodb-diagnostic-equip.web.app/]
+ 
+- (Diagnosti Equipment)[https://react-mongodb-diagnostic-equip.web.app/]
   - React
   - React router
   - Api
-  - Firebase authentication
+- Firebase authentication
   - Express
   - Node
   - MongoDB
- - ()[]
+- ()[]
   - 
  - ()[]
   - 
