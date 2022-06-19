@@ -27,7 +27,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - Tailwind css
   - React chart
  
--[Tisma Commerce](https://tisma-commerece.netlify.app/)
+- [Tisma Commerce](https://tisma-commerece.netlify.app/)
   - React
   - React hook
  
