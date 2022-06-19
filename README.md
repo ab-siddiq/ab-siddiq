@@ -22,7 +22,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - React router
   - Tailwind css
 - [Product data analysis](https://product-data-analysis.netlify.app/)
-  -React
+  - React
   - React router
   - Tailwind css
   - React chart
