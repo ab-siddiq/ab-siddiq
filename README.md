@@ -49,26 +49,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - Express
   - Node
   - MongoDB
-- ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
- - ()[]
-  - 
+
 <!--
 **ab-siddiq/ab-siddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
