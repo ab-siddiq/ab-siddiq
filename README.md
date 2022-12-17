@@ -8,7 +8,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - `React Bootstrap` `Tailwind CSS`
   - `React.js` `React Router`
 - Programming/Scripting Language
-  - `JavaScript` `TypeScript`
+  - `JavaScript` `TypeScript` `C` `C++`
 - DataBase/Server
   - `Express.js` `node.js` `MongoDB` 
 - Authentication
