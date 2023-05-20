@@ -4,6 +4,10 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
 ## Problem Solving
 - [HackerRank](https://www.hackerrank.com/AbuBakkarSiddiq)
 - [Codeforces](https://codeforces.com/profile/ab-siddiq)
+## My Learning Pipeline
+- `OOP using Python`
+- `Django`
+- `MySQL`
 ## My Skills
 - Frontend
   - `CSS3` `CSS Flexbox` `CSS Grid` `Bootstrap 5`
