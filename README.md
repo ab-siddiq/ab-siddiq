@@ -5,7 +5,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
 - [HackerRank](https://www.hackerrank.com/AbuBakkarSiddiq)
 - [Codeforces](https://codeforces.com/profile/ab-siddiq)
 ## My Learning Pipeline
-- `OOP using Python`
+- [OOP using Python](https://github.com/ab-siddiq/python)
 - `Django`
 - [MYSQL](https://github.com/ab-siddiq/my-sql)
 ## My Skills
