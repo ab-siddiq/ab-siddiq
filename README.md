@@ -7,7 +7,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
 ## My Learning Pipeline
 - `OOP using Python`
 - `Django`
-- `MySQL`
+- [MySQL](https://github.com/ab-siddiq/my-sql)
 ## My Skills
 - Frontend
   - `CSS3` `CSS Flexbox` `CSS Grid` `Bootstrap 5`
