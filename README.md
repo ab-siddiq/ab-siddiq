@@ -1,9 +1,8 @@
 ## About Me  
 
-I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I have frontend web application developmnet experience using `HTML` `CSS` `Bootstrap` `React.js` `Tailwind CSS` `JavaScript`. Currently, I am working as a Creative Developer at [ServicEngineBPO](https://sebpo.com/). I have also coding experience in [C](https://github.com/ab-siddiq/phitron) & [C++](https://github.com/ab-siddiq/CPP-Programming). Currently, I am learning `Data Structure & Algorithm` using [C++](https://github.com/ab-siddiq/CPP-Programming). I am a dedicated, cooperative, self-assured and articulate professional.
+I am Abu Bakkar Siddiq, completed my B.Sc. in Computer Science & Engineering from American International University-Bangladesh (AIUB). I have frontend web application development experience using `HTML` `CSS` `Bootstrap` `React.js` `Tailwind CSS` `JavaScript`. Currently, I am working as a Creative Developer at [ServicEngineBPO](https://sebpo.com/). I also have coding experience in [C](https://github.com/ab-siddiq/phitron) & [C++](https://github.com/ab-siddiq/CPP-Programming). Currently, I am learning `Data Structure & Algorithm` using [C++](https://github.com/ab-siddiq/CPP-Programming). I am a dedicated, cooperative, self-assured, and articulate professional.
 ## Problem Solving
 - [HackerRank](https://www.hackerrank.com/AbuBakkarSiddiq)
-- [Codeforces](https://codeforces.com/profile/ab-siddiq)
 ## My Learning Pipeline
 - [OOP using Python](https://github.com/ab-siddiq/python)
 - `Django`
@@ -18,14 +17,14 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
   - `TypeScript`
   - [C](https://github.com/ab-siddiq/phitron)
   - [C++](https://github.com/ab-siddiq/CPP-Programming)
-- DataBase/Server
-  - `Express.js` `node.js` `MongoDB` 
+- Database/Server
+  - `Express.js` `node.js` `MongoDB` `MYSQL`
 - Authentication
   - `Firebase` `React Firebase Hooks`
 
 ## Project Links
 - [API Project](https://react-router-with-tailwind.netlify.app/)
-  - `Rest coutries` `Jsonplaceholder` `React` `React router` `Tailwind css`
+  - `Rest countries `Jsonplaceholder` `React` `React router` `Tailwind css`
 - [Product data analysis](https://product-data-analysis.netlify.app/)
   - `React` `React router` `Tailwind css` `React chart`
  
@@ -35,7 +34,7 @@ I am Abu Bakkar Siddiq, completed B.Sc. in Computer Science & Engineering from A
 - [Phone Hunter](https://phone-hunter.netlify.app/)
   - `Api` `React`
 - [Lawyer Profile](https://react-lawyer-2919b.web.app/)
-  - `React` `React bootstrap` `Custom api` `Firebase authentication`
+  - `React` `React bootstrap` `Custom API` `Firebase authentication`
  
 - [Diagnosti Equipment](https://react-mongodb-diagnostic-equip.web.app/)
   - `React` `React router` `Api`
