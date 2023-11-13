@@ -24,7 +24,7 @@ I am Abu Bakkar Siddiq, completed my B.Sc. in Computer Science & Engineering fro
 
 ## Project Links
 - [API Project](https://react-router-with-tailwind.netlify.app/)
-  - `Rest countries `Jsonplaceholder` `React` `React router` `Tailwind css`
+  - `Rest countries` `Jsonplaceholder` `React` `React router` `Tailwind css`
 - [Product data analysis](https://product-data-analysis.netlify.app/)
   - `React` `React router` `Tailwind css` `React chart`
  
